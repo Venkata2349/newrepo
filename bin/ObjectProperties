@@ -1,0 +1,7 @@
+#Landing page
+selectState.xpath = //select[@id="stateID"]
+selectLanguage.xpath= //select[@id="KeyboardID"]
+Firstname_id=firstNameID
+Lastname.id=lastNameID
+
+# after landing page

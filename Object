@@ -1,0 +1,7 @@
+#URL 
+url=https://demo.guru99.com/test/login.html
+#Login page
+EmailAddress_id=email
+Password.id=passwd
+SignIn.name=SubmitLogin
+#Home page element locators
