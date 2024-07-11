@@ -11,6 +11,7 @@ public class Naukri1 {
 		WebDriver driver = new EdgeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.naukri.com/");
+		//To enter something in text field need to use sendKeys method
 		driver.findElement(By.id("register_Layer")).click();
 		driver.findElement(By.id("name")).sendKeys("siva");
 		driver.findElement(By.id("email")).sendKeys("sivapattem007@gmail.com");
